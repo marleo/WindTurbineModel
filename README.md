@@ -51,7 +51,7 @@ No commercial use of the original or modified model is permitted under the CC BY
 ├── modified/
 │   └── Modified or newly created STL files
 ├── scripts/
-│   └── Control scripts for turbine operation
+│   └── Monitoring script for RPM measurement
 └── README.md
 ```
 
