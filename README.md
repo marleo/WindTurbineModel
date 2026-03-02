@@ -73,16 +73,23 @@ No modifications have been made to these files.
 ---
 
 # Bill of Materials (BOM)
+| Item (from the original creator's BOM) | Quantity |
+|------|--|
+| Roller Bearing MR-18307-2RS 18x30x7 mm | 3 |
+| Roller Bearing 608 2RS 8x22x7 mm | 1 |
+| M8 nut | 2 |
+| M8 bolt | 2 |
 
-| Item | Description | Notes |
-|------|------------|-----------|
-| Greartisan Electric Reduction Motor | DC gear motor | Driving the Wind Turbine Model Rotor |
-| AZDelivery Arduino Nano (CH340) | Microcontroller board | Central Controller |
-| AZDelivery LJ12A3-4-Z Proximity Sensor | Inductive sensor | Measure Turbine Model RPM |
-| AZDelivery I2C 1602 LCD (HD44780) | LCD display with I2C interface | Display Wind Turbine RPM |
-| XTPower LiPo Battery Pack | 9-15V 2.1Ah battery | Power Delivery for Wind Turbine Model |
-| RUNCCI-YUN Adjustable Reversible Controller | Speed controller with F/R switch | Allows for bidirectional rotation of the Wind Turbine Model |
-| XL4015 DC-DC Buck Converter | 5A step-down regulator | Ensure the PD does not exceed 5V |
+| Item |  Quantity | Description | Notes |
+|------|--|------------|-----------|
+| Greartisan Electric Reduction Motor | 1 | DC gear motor | Driving the Wind Turbine Model Rotor |
+| AZDelivery Arduino Nano (CH340) | 1 | Microcontroller board | Central Controller |
+| AZDelivery LJ12A3-4-Z Proximity Sensor | 1 | Inductive sensor | Measure Turbine Model RPM |
+| AZDelivery I2C 1602 LCD (HD44780) | 1 | LCD display with I2C interface | Display Wind Turbine RPM |
+| XTPower LiPo Battery Pack | 1 | 9-15V 2.1Ah battery | Power Delivery for Wind Turbine Model |
+| RUNCCI-YUN Adjustable Reversible Controller | 1 | Speed controller with F/R switch | Allows for bidirectional rotation of the Wind Turbine Model |
+| XL4015 DC-DC Buck Converter | 1 | 5A step-down regulator | Ensure the PD does not exceed 5V |
+| Various Screws & Nuts | |
 
 ---
 
