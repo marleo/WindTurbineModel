@@ -8,6 +8,8 @@ The repository includes:
 - Modified and newly designed STL files developed for our experimental setup
 - Control and utility scripts used for turbine operation
 - Bill of Materials (BOM) for the turbine hardware
+ 
+<img src="https://github.com/marleo/WindTurbineModel/blob/main/windturbine.jpg" width="450">
 
 ---
 
