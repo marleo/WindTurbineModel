@@ -84,7 +84,7 @@ No modifications have been made to these files.
 
 | Item |  Quantity | Description | Notes |
 |------|--|------------|-----------|
-| Greartisan Electric Reduction Motor | 1 | DC gear motor | Driving the Wind Turbine Model Rotor |
+| Greartisan Electric Reduction Motor 12V 30rpm | 1 | DC gear motor | Driving the Wind Turbine Model Rotor |
 | AZDelivery Arduino Nano (CH340) | 1 | Microcontroller board | Central Controller |
 | AZDelivery LJ12A3-4-Z Proximity Sensor | 1 | Inductive sensor | Measure Turbine Model RPM |
 | AZDelivery I2C 1602 LCD (HD44780) | 1 | LCD display with I2C interface | Display Wind Turbine RPM |
